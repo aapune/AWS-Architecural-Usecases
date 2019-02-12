@@ -1,2 +1,3 @@
 # AWS-Architecural-Usecases
-AWS 
+AWS architectural usecases by Aniruddha Anikhindi
+aa.pune@gmail.com
